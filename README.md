@@ -1,4 +1,4 @@
-# Fourier
+# Fourier Transform
 
 ## Description
 
@@ -14,4 +14,4 @@ Matploblib <br>
 
 ## Issues
 
-The resulting wav file is handled weirdly by some programs. For example using Apple music results in extremely loud noise compared to the input, whereas for other programs noise level is normal. This may be a result of the created wav files lacking tags or attributes that were present in the input file.
+The resulting wav file is handled weirdly by some programs. For example using Apple Music results in extremely loud noise compared to the input, whereas for other programs noise level is normal. This may be a result of the created wav files lacking tags or attributes that were present in the input file.
